@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/serbanbondor/Toggle-Menu-/issues"
   },
-  "homepage": "https://github.com/serbanbondor/Toggle-Menu-#readme"
+  "homepage": "https://github.com/serbanbondor/Toggle-Menu-#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
