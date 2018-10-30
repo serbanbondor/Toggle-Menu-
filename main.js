@@ -9,5 +9,13 @@ let toggleNav = function() {
     if (toggleNavStatus === false) {
         getSidebarUl.style.visibility = "visible";
         getSidebar.style.width = "272px";
+        getSidebarTitle.style.opacity = "0.5";
+
+        let arrayLength = getSidebarLinks.length;
+        for (let i = 0; i < array.length; i++) {
+            getSidebarLinks[i].style.opacity = "1";
+        }
+
+        toggleNavStatus = true;
     }
 }
