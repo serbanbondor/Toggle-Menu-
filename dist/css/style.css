@@ -17,7 +17,7 @@ body {
     width: 60px;
     height: 100%;
     background-color: #f98f39;
-    background-image: url(images/menu-bars.png);
+    background-image: url(../images/menu-bars.png);
     background-repeat: no-repeat;
     background-size: 40%;
     background-position: center;
